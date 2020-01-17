@@ -1,1 +1,1 @@
-# Coursera-Machine-Learnining-project
+# Coursera-Machine-Learning-project
